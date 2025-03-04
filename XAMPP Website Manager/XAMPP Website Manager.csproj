@@ -29,6 +29,10 @@
 		<Reference Include="Data">
 			<HintPath>.\Data.dll</HintPath>
 		</Reference>
+		<None Update=".\lang\**">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+			<!-- Copiar durante o build -->
+		</None>
 	</ItemGroup>
 	
 </Project>
