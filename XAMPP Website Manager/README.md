@@ -8,17 +8,17 @@ O projeto XAMPP-Website-Manager é um aplicativo de gerenciamento de sites desen
 A crição do projeto teve inspiração no no projeto abandonado https://github.com/skipperbent/XAMPP-Website-Manager onde foi baseado nas imagens que foi totalmente reconstruido!
 
 # Imagens
-![Image 1 of XAMPP Website Manager](https://github.com/PSTrennepohl/XAMPP-Website-Manager/blob/master/imgs/screenshot_1.png?raw=true)
-![Image 2 of XAMPP Website Manager](https://github.com/PSTrennepohl/XAMPP-Website-Manager/blob/master/imgs/screenshot_2.png?raw=true)
-![Image 3 of XAMPP Website Manager](https://github.com/PSTrennepohl/XAMPP-Website-Manager/blob/master/imgs/screenshot_3.png?raw=true)
-![Image 4 of XAMPP Website Manager](https://github.com/PSTrennepohl/XAMPP-Website-Manager/blob/master/imgs/screenshot_4.png?raw=true)
-![Image 5 of XAMPP Website Manager](https://github.com/PSTrennepohl/XAMPP-Website-Manager/blob/master/imgs/screenshot_5.png?raw=true)
-![Image 6 of XAMPP Website Manager](https://github.com/PSTrennepohl/XAMPP-Website-Manager/blob/master/imgs/screenshot_6.png?raw=true)
-![Image 7 of XAMPP Website Manager](https://github.com/PSTrennepohl/XAMPP-Website-Manager/blob/master/imgs/screenshot_7.png?raw=true)
-![Image 8 of XAMPP Website Manager](https://github.com/PSTrennepohl/XAMPP-Website-Manager/blob/master/imgs/screenshot_8.png?raw=true)
-![Image 9 of XAMPP Website Manager](https://github.com/PSTrennepohl/XAMPP-Website-Manager/blob/master/imgs/screenshot_9.png?raw=true)
-![Image 10 of XAMPP Website Manager](https://github.com/PSTrennepohl/XAMPP-Website-Manager/blob/master/imgs/screenshot_10.png?raw=true)
-![Image 11 of XAMPP Website Manager](https://github.com/PSTrennepohl/XAMPP-Website-Manager/blob/master/imgs/screenshot_11.png?raw=true)
+![Image 1 of XAMPP Website Manager](https://github.com/PSTrennepohl/XAMPP-Website-Manager/blob/main/imgs/screenshot_1.png?raw=true)
+![Image 2 of XAMPP Website Manager](https://github.com/PSTrennepohl/XAMPP-Website-Manager/blob/main/imgs/screenshot_2.png?raw=true)
+![Image 3 of XAMPP Website Manager](https://github.com/PSTrennepohl/XAMPP-Website-Manager/blob/main/imgs/screenshot_3.png?raw=true)
+![Image 4 of XAMPP Website Manager](https://github.com/PSTrennepohl/XAMPP-Website-Manager/blob/main/imgs/screenshot_4.png?raw=true)
+![Image 5 of XAMPP Website Manager](https://github.com/PSTrennepohl/XAMPP-Website-Manager/blob/main/imgs/screenshot_5.png?raw=true)
+![Image 6 of XAMPP Website Manager](https://github.com/PSTrennepohl/XAMPP-Website-Manager/blob/main/imgs/screenshot_6.png?raw=true)
+![Image 7 of XAMPP Website Manager](https://github.com/PSTrennepohl/XAMPP-Website-Manager/blob/main/imgs/screenshot_7.png?raw=true)
+![Image 8 of XAMPP Website Manager](https://github.com/PSTrennepohl/XAMPP-Website-Manager/blob/main/imgs/screenshot_8.png?raw=true)
+![Image 9 of XAMPP Website Manager](https://github.com/PSTrennepohl/XAMPP-Website-Manager/blob/main/imgs/screenshot_9.png?raw=true)
+![Image 10 of XAMPP Website Manager](https://github.com/PSTrennepohl/XAMPP-Website-Manager/blob/main/imgs/screenshot_10.png?raw=true)
+![Image 11 of XAMPP Website Manager](https://github.com/PSTrennepohl/XAMPP-Website-Manager/blob/main/imgs/screenshot_11.png?raw=true)
 
 Estrutura do Projeto
 
