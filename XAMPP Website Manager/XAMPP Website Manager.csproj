@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net8.0-windows10.0.26100.0</TargetFramework>
+		<RootNamespace>XAMPP_Website_Manager</RootNamespace>
+		<Nullable>enable</Nullable>
+		<UseWindowsForms>true</UseWindowsForms>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+		<WarningLevel>0</WarningLevel>
+		<ApplicationIcon>./app.ico</ApplicationIcon>
+		<StartupObject>XWM.Program</StartupObject>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <Content Include="app.ico" />
+	</ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="SharpZipLib" Version="1.4.2" />
+		<PackageReference Include="System.Drawing.Common" Version="8.0.0" />
+		<PackageReference Include="log4net" Version="3.0.4" />
+		<Reference Include="Ionic.Zip">
+			<HintPath>.\Ionic.Zip.dll</HintPath>
+		</Reference>
+		<Reference Include="Language">
+			<HintPath>.\Language.dll</HintPath>
+		</Reference>
+		<Reference Include="Data">
+			<HintPath>.\Data.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+	
+</Project>
